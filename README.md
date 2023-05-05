@@ -25,4 +25,3 @@ Screenshots:
 
 ![image](https://user-images.githubusercontent.com/102346627/236525628-b485276c-246d-4f6d-b1cc-aff6560710fd.png)
 
-![image](https://user-images.githubusercontent.com/102346627/236525661-6f378f5e-9fc9-4f00-a225-da3c3aa1a500.png)
